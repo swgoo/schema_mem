@@ -1,0 +1,9 @@
+# Add-ons for mamba-ssm 2.3.2.post1 with PyTorch CUDA 13.
+# Install in a dedicated environment compatible with your GPU and CUDA setup.
+torch==2.10.0+cu130
+triton==3.6.0
+tilelang==0.1.8
+apache-tvm-ffi==0.1.9
+quack-kernels==0.3.4
+nvidia-cutlass-dsl[cu13]==4.4.2
+cuda-python==13.0.3

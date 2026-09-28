@@ -1,0 +1,2 @@
+flash-linear-attention==0.5.2
+fla-core==0.5.2
